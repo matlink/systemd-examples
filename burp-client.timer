@@ -3,6 +3,7 @@ Description=Hourly runs burp timer
 
 [Timer]
 OnCalendar=hourly
+RandomizedDelaySec=600
 Persistent=true
 
 [Install]
